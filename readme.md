@@ -1,5 +1,5 @@
 # *Deprecation Warning*
-
+WTF man???
 C2FO is no longer maintaining this project. Please use accordingly. If you would like to help maintain or take over the project please let us know. 
 
 [![Build Status](https://travis-ci.org/C2FO/nools.png)](https://travis-ci.org/C2FO/nools)
